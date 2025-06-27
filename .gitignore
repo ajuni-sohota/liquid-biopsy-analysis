@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+ctdna_env/
+env/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files
+*.csv
+*.xlsx
+*.json
+data/raw/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Memory dumps
+*.tmp
+*.log
